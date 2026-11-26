@@ -1,0 +1,8 @@
+a=(1,2,3,4,5,6)
+b=list(a)
+b.append(7)
+print(b)
+b.pop(6)
+print(b)
+b.insert(0,'2')
+print(b)
